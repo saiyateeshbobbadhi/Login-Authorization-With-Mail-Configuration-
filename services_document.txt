@@ -1,0 +1,12 @@
+SERVICES
+For UserRegistration
+auth/register
+
+For Users Login 
+auth/login
+
+For RestPassword Mail
+auth/email-verification/:email
+
+For Creating of Employees
+users/createUsers
